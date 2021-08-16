@@ -7,7 +7,8 @@ A. System maintainence:
 3. "temperature_sensor": record temperature to SD card
 4. "time_calibration":  calibrate RTC
 5. "valve_test cycle": short tidalcycle for testing updated protocol
-6. "valve2": control the valve and pump.
+6. "valve2": control the valve and pump
+7. "valve_fw_sw": fw and sw tide
 	
 B. Data analysis:
 
