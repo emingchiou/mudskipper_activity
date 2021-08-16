@@ -20,5 +20,5 @@ B. Data analysis:
 C. Template data:
 
 Data of one individual were available for analysis, but the raw video were not supplied.
-1. cordination output from deelabcut.
-2. timetag of frames.
+1. mudA-1:cordination output from deelabcut.
+2. mudA:timetag of frames.
